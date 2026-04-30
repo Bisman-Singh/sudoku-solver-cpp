@@ -26,3 +26,5 @@ make
 ```
 
 Select a puzzle from the menu or enter your own. Use `0` to represent empty cells when entering a custom puzzle.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
